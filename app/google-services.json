@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "30891596327",
+    "firebase_url": "https://big-list-of-ingredients.firebaseio.com",
+    "project_id": "big-list-of-ingredients",
+    "storage_bucket": "big-list-of-ingredients.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30891596327:android:6d9c55f326ffcfa0",
+        "android_client_info": {
+          "package_name": "com.adhdcook.kurtis.biglistofingredients"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30891596327-jg2f5hai887ma93v40sen9b49koqe3d8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxiVWbo15nmKStKKTL9RAar85MnjRqTOY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
